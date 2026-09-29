@@ -13,14 +13,13 @@ Every text pair clears AA (4.5:1) and every accent clears 3:1 on both modes' gro
 
 ## Use it
 
-Open immediately.run → platform menu → **Themes… → Add theme**, and open this repo.
+Open immediately.run → platform menu → **Themes… → Add theme**, open this repo, and pick `themes/danube-dusk`.
 
 ## Layout
 
 ```
-immediately.run.json              marker: { "kind": "theme" }
 themes/danube-dusk/
-  immediately.run.json            the bundle's marker
+  immediately.run.json            marker: opensWith theme-toggle, kind "theme"
   theme.json                      manifest: id, label, modes
   theme.css                       theme-level tokens (accents)
   modes/light.css                 Dawn
