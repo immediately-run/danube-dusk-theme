@@ -1,18 +1,19 @@
-/* Dawn: grounds from the pale band just above the horizon, inks from the zenith slate. */
---bg-0: #f5f3ec;
---bg-1: #fbfaf6;
---bg-2: #eef0ec;
---bg-3: #e2e6e4;
---bg-hover: rgba(76, 90, 111, 0.05);
---bg-active: rgba(76, 90, 111, 0.09);
---border: rgba(76, 90, 111, 0.09);
---border-2: rgba(76, 90, 111, 0.15);
---border-strong: rgba(76, 90, 111, 0.3);
---text-1: #1c2430;
---text-2: #4a586c;
---text-3: #72818f;
---text-4: #aab4b6;
---shadow-pop: 0 1px 0 rgba(255, 255, 255, 0.6) inset, 0 12px 32px rgba(40, 50, 66, 0.16), 0 2px 6px rgba(40, 50, 66, 0.08);
---shadow-rail: 0 8px 24px rgba(40, 50, 66, 0.12);
---selection: rgba(249, 196, 110, 0.4);
---code-bg: #f3f2ea;
+/* Dawn: the canvas is the pale sky just above the horizon, raised surfaces are the
+   gold band beneath it, and the inks are the zenith slate. */
+--bg-0: #dfe5e6;
+--bg-1: #fdf5e0;
+--bg-2: #d3dbde;
+--bg-3: #c6d0d5;
+--bg-hover: rgba(76, 90, 111, 0.07);
+--bg-active: rgba(76, 90, 111, 0.12);
+--border: rgba(76, 90, 111, 0.14);
+--border-2: rgba(76, 90, 111, 0.22);
+--border-strong: rgba(76, 90, 111, 0.38);
+--text-1: #1a2230;
+--text-2: #3f4d62;
+--text-3: #5f6e80;
+--text-4: #8f9aa5;
+--shadow-pop: 0 1px 0 rgba(255, 248, 230, 0.6) inset, 0 12px 32px rgba(40, 50, 66, 0.2), 0 2px 6px rgba(40, 50, 66, 0.1);
+--shadow-rail: 0 8px 24px rgba(40, 50, 66, 0.16);
+--selection: rgba(255, 194, 91, 0.45);
+--code-bg: #f7ebcb;
