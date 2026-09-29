@@ -1,0 +1,6 @@
+/* Danube Dusk: the sky over the river just after sunset, zenith to horizon.
+   Sampled: #4c5a6f #6a798b #8594a1 #b9c2c0 #e6ddb7 #f9e0a1 #ffc25b #e8a85e.
+   The accent gradient runs horizon amber (accent-1) up to evening slate (accent-2). */
+--accent-1: #c8742c;
+--accent-2: #66788e;
+--accent-solid: #d08a45;

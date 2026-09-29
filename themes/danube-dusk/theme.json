@@ -1,0 +1,9 @@
+{
+  "id": "danube-dusk",
+  "label": "Danube Dusk",
+  "preferredPolarity": "dark",
+  "modes": {
+    "light": { "label": "Dawn", "polarity": "light", "tokens": "modes/light.css" },
+    "dark": { "label": "Dusk", "polarity": "dark", "tokens": "modes/dark.css" }
+  }
+}
