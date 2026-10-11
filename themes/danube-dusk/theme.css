@@ -4,3 +4,6 @@
 --accent-1: #bd6a22;
 --accent-2: #6b7f98;
 --accent-solid: #d4893d;
+
+/* R3-836: the pill paints the horizon — amber into evening slate. */
+--accent-grad: linear-gradient(115deg, #a85f1c 0%, #4c5a6f 100%);

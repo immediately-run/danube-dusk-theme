@@ -1,7 +1,7 @@
 /* Dusk: the canvas is the evening slate at the zenith, surfaces lighten toward the
    horizon, and the inks are the warm cream of the last light. */
---bg-0: #18202c;
---bg-1: #1c2533;
+--bg-0: linear-gradient(180deg, #18202c 0%, #2e3c52 100%);
+--bg-1: linear-gradient(180deg, #161c27 0%, #1c2533 100%);
 --bg-2: #283446;
 --bg-3: #334259;
 --bg-hover: rgba(249, 224, 161, 0.06);

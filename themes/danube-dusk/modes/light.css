@@ -1,7 +1,7 @@
 /* Dawn: the canvas is the pale sky just above the horizon, raised surfaces are the
    gold band beneath it, and the inks are the zenith slate. */
---bg-0: #dfe5e6;
---bg-1: #fdf5e0;
+--bg-0: linear-gradient(180deg, #f2f5f6 0%, #dfe5e6 100%);
+--bg-1: linear-gradient(180deg, #ffffff 0%, #fdf5e0 100%);
 --bg-2: #d3dbde;
 --bg-3: #c6d0d5;
 --bg-hover: rgba(76, 90, 111, 0.07);
